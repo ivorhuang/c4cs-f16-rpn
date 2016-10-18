@@ -3,8 +3,6 @@
 [![Build Status][BS img]][Build Status]
 [![Coverage Status][CS img]][Coverage Status]
 
-## Description
-
 [Build Status]: https://travis-ci.org/ivorhuang/c4cs-f16-rpn
 [Coverage Status]: https://coveralls.io/github/ivorhuang/c4cs-f16-rpn
 
