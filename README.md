@@ -5,8 +5,6 @@
 
 ## Description
 
-TODO: Your gem description
-
 [Build Status]: https://travis-ci.org/ivorhuang/c4cs-f16-rpn
 [Coverage Status]: https://coveralls.io/github/ivorhuang/c4cs-f16-rpn
 
