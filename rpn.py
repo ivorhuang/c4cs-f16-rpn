@@ -23,6 +23,9 @@ def calculate(string):
 			result = function(arg1, arg2)
 			stack.append(result)
 		print(stack)
+	if len(stack) == 2:
+		print("stack is really long")
+		raise TypeError
 	if len(stack) != 1:
 		raise TypeError
 	return stack.pop()
